@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\bin\Debug\net8.0\QuanLyFileNhiPhan.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\bin\Debug\net8.0\QuanLyFileNhiPhan.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\bin\Debug\net8.0\QuanLyFileNhiPhan.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\bin\Debug\net8.0\QuanLyFileNhiPhan.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\bin\Debug\net8.0\QuanLyFileNhiPhan.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\QuanLyFileNhiPhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\QuanLyFileNhiPhan.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\QuanLyFileNhiPhan.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\QuanLyFileNhiPhan.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\QuanLyFileNhiPhan.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\refint\QuanLyFileNhiPhan.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\QuanLyFileNhiPhan.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\QuanLyFileNhiPhan.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\QuanLyFileNhiPhan\obj\Debug\net8.0\ref\QuanLyFileNhiPhan.dll
